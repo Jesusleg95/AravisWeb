@@ -299,29 +299,25 @@
     </div>
     <!-- Proceso Fin -->
 
-    <!-- Our Technology Stack Section Start -->
+    <!-- Servicio Inicio -->
     <div class="our-technology">
         <div class="container">
             <div class="row section-row">
                 <div class="col-lg-12">
-                    <!-- Section Title Start -->
                     <div class="section-title section-title-center">
                         <span class="section-sub-title wow fadeInUp">Nuestros Servicios</span>
                         <h2 class="text-anime-style-3" data-cursor="-opaque">
                             Servicios pensados para ayudar a tener una presencia digital profesional
                         </h2>
                     </div>
-                    <!-- Section Title End -->
                 </div>
             </div>
 
             <div class="row technology-item-list">
+                <!-- Servicio 1 Inicio -->
                 <div class="col-xl-3 col-md-6">
-                    <!-- Technology Item Start -->
                     <div class="technology-item active wow fadeInUp">
-                        <!-- Technology Item Header Start -->
                         <div class="technology-item-header">
-                            <!-- Technology Item Counter Start -->
                             <div class="technology-item-counter">
                                 <h2>Landing Page</h2>
                                 <p>
@@ -329,185 +325,117 @@
                                     profesional en internet de forma rápida.
                                 </p>
                             </div>
-                            <!-- Technology Item Counter End -->
-
-                            <!-- Icon Box Start -->
-                            <div class="icon-box">
-                                <img src="images/icon-technology-item-1.svg" alt="">
+                            <div class="icon-box text-center">
+                                <img src="assets/img/icono-servicio1.png" alt="servicio">
                             </div>
-                            <!-- Icon Box End --> 
                         </div>
-                        <!-- Technology Item Header End -->
-
-                        <!-- Technology Item Content Start -->
                         <div class="technology-item-content">
                             <h3>Entrega aproximada</h3>
                             <p>48 horas</p>
                         </div>
-                        <!-- Technology Item Content End -->
                     </div>
-                    <!-- Technology Item End -->
                 </div>
+                <!-- Servicio 1 Fin -->
 
+                <!-- Servicio 2 Inicio -->
                 <div class="col-xl-3 col-md-6">
-                    <!-- Technology Item Start -->
                     <div class="technology-item wow fadeInUp" data-wow-delay="0.2s">
-                        <!-- Technology Item Header Start -->
                         <div class="technology-item-header">
-                            <!-- Technology Item Counter Start -->
                             <div class="technology-item-counter">
-                                <h2><span class="counter">92</span>%</h2>
-                                <p>The leading CMS for building & managing websites</p>
+                                <h2>Sitio Web</h2>
+                                <p>
+                                    Ideal para empresas o negocios que necesitan mostrar 
+                                    más información, servicios, secciones y contenido. 
+                                </p>
                             </div>
-                            <!-- Technology Item Counter End -->
-
-                            <!-- Icon Box Start -->
-                            <div class="icon-box">
-                                <img src="images/icon-technology-item-2.svg" alt="">
+                            <div class="icon-box text-center">
+                                <img src="assets/img/icono-servicio2.png" alt="">
                             </div>
-                            <!-- Icon Box End --> 
                         </div>
-                        <!-- Technology Item Header End -->
-
-                        <!-- Technology Item Content Start -->
                         <div class="technology-item-content">
-                            <h3>WordPress</h3>
-                            <p>CMS Platform</p>
+                            <h3>Entrega aproximada</h3>
+                            <p>5 a 7 días</p>
                         </div>
-                        <!-- Technology Item Content End -->
                     </div>
-                    <!-- Technology Item End -->
                 </div>
+                <!-- Servicio 2 Fin -->
 
+                <!-- Servicio 3 Inicio -->
                 <div class="col-xl-3 col-md-6">
-                    <!-- Technology Item Start -->
                     <div class="technology-item wow fadeInUp" data-wow-delay="0.4s">
-                        <!-- Technology Item Header Start -->
                         <div class="technology-item-header">
-                            <!-- Technology Item Counter Start -->
                             <div class="technology-item-counter">
-                                <h2><span class="counter">90</span>%</h2>
-                                <p>The core scripting language for creating interactive</p>
+                                <h2>Aplicación Web</h2>
+                                <p>
+                                    Desarrollamos sistemas personalizados para negocios que necesitan 
+                                    automatizar procesos, administrar información o mejorar su operación 
+                                    interna. 
+                                </p>
                             </div>
-                            <!-- Technology Item Counter End -->
-
-                            <!-- Icon Box Start -->
-                            <div class="icon-box">
-                                <img src="images/icon-technology-item-3.svg" alt="">
+                            <div class="icon-box text-center">
+                                <img src="assets/img/icono-servicio3.png" alt="servicio">
                             </div>
-                            <!-- Icon Box End --> 
                         </div>
-                        <!-- Technology Item Header End -->
-
-                        <!-- Technology Item Content Start -->
                         <div class="technology-item-content">
-                            <h3>JavaScript</h3>
-                            <p>Frontend Programming</p>
+                            <h3>Entrega aproximada</h3>
+                            <p>sujeto al alcance y requerimientos del proyecto</p>
                         </div>
-                        <!-- Technology Item Content  End -->
                     </div>
-                    <!-- Technology Item End -->
                 </div>
+                <!-- Servicio 3 Fin -->
 
+                <!-- Servicio 4 Inicio -->
                 <div class="col-xl-3 col-md-6">
-                    <!-- Technology Item Start -->
                     <div class="technology-item wow fadeInUp" data-wow-delay="0.6s">
-                        <!-- Technology Item Header Start -->
                         <div class="technology-item-header">
-                            <!-- Technology Item Counter Start -->
                             <div class="technology-item-counter">
-                                <h2><span class="counter">85</span>%</h2>
-                                <p>Design platform for building intuitive & visually</p>
+                                <h2>Correo Empresarial</h2>
+                                <p>
+                                    Configuramos correos empresariales con tu propio dominio para que 
+                                    tu negocio proyecte una imagen más profesional y confiable.
+                                </p>
                             </div>
-                            <!-- Technology Item Counter End -->
-
-                            <!-- Icon Box Start -->
-                            <div class="icon-box">
-                                <img src="images/icon-technology-item-4.svg" alt="">
+                            <div class="icon-box text-center">
+                                <img src="assets/img/icono-servicio4.png" alt="servicio">
                             </div>
-                            <!-- Icon Box End --> 
                         </div>
-                        <!-- Technology Item Header End -->
-
-                        <!-- Technology Item Content Start -->
                         <div class="technology-item-content">
-                            <h3>Figma</h3>
-                            <p>UI/UX Design Tool</p>
+                            <h3>Entrega aproximada</h3>
+                            <p>24 horas</p>
                         </div>
-                        <!-- Technology Item Content End -->
                     </div>
-                    <!-- Technology Item End -->
                 </div>
-
-                <div class="col-lg-12">
-                    <!-- Section Footer Text Start -->
-                    <div class="section-footer-text section-satisfy-img wow fadeInUp" data-wow-delay="0.4s">
-                        <!-- Satisfy Client Images Start -->
-                        <div class="satisfy-client-images">
-                            <div class="satisfy-client-image">
-                                <figure class="image-anime">
-                                    <img src="images/author-1.jpg" alt="">
-                                </figure>
-                            </div>
-                            <div class="satisfy-client-image add-more">
-                                <img src="images/icon-phone-white.svg" alt="">
-                            </div>
-                        </div>
-                        <!-- Satisfy Client Images End -->    
-                        <p>Let's make something great work together. <a href="contact.html"> Get Free Quote</a></p>
-                    </div>
-                    <!-- Section Footer Text End -->
-                </div>
+                <!-- Servicio 4 Fin -->
             </div>
         </div>
     </div>
-    <!-- Our Technology Stack Section End -->
+    <!-- Servicio Fin -->
 
-    
-    
     <!-- Precio Inicio -->
     <div class="pricing-plan-prime bg-section">
         <div class="container">
             <div class="row section-row">
-                <!-- Section Title Start -->
                 <div class="section-title section-title-center">
-                    <span class="section-sub-title wow fadeInUp">Nuestros Servicios</span>
+                    <span class="section-sub-title wow fadeInUp">Precios</span>
                     <h2 class="text-anime-style-3" data-cursor="-opaque">
                         Planes asequibles adaptados a las necesidades de su negocio
                     </h2>
                 </div>
-                <!-- Section Title End -->
             </div>
 
             <div class="row">
+                <!-- Precio1 Inicio -->
                 <div class="col-xl-4 col-md-6">
-                    <!-- Pricing Item Start -->
                     <div class="pricing-item-prime wow fadeInUp">
-                        <!-- Icon Box Start -->
                         <div class="icon-box">
-                            <img src="images/icon-pricing-item-1-prime.svg" alt="">
+                            <img src="assets/img/icono-precio1.png" alt="servicio">
                         </div>
-                        <!-- Icon Box End -->
-
-                        <!-- Pricing Item Content Start -->
                         <div class="pricing-item-content-prime">
                             <h2>Landing Page</h2>
-                            <p>Ideal para negocios que necesitan presencia profesional en internet de forma rápida.</p>
-                            <p>
-                                Incluye una página principal con información de tu negocio, servicios, botón de WhatsApp, 
-                                formulario de contacto y diseño adaptable a dispositivos móviles.
-                            </p>
-                            <p>Entrega aproximada: 48 horas.</p>
                         </div>
-                        <!-- Pricing Item Content End --> 
-                        
-                        <!-- Pricing Item Price Start -->
                         <div class="pricing-item-price-prime">
                             <h3>5,000 MXN</h3>
                         </div>
-                        <!-- Pricing Item Price End -->
-
-                        <!-- Pricing Item List Start -->
                         <div class="pricing-item-list-prime">
                             <h3>¿Qué incluye?</h3>
                             <ul>
@@ -522,48 +450,25 @@
                                 <li>Cambios menores de contenido</li>
                             </ul>
                         </div>
-                        <!-- Pricing Item List End -->
-
-                        <!-- Pricing Item Button Start -->
                         <div class="pricing-item-button-prime">
                             <a href="contact.html" class="btn-default">Get Started With Plans</a>
                         </div>
-                        <!-- Pricing Item Button End -->
                     </div>
-                    <!-- Pricing Plan Start -->
                 </div>
+                <!-- Precio1 Fin -->
 
+                <!-- Precio2 Inicio -->
                 <div class="col-xl-4 col-md-6">
-                    <!-- Pricing Item Start -->
                     <div class="pricing-item-prime wow fadeInUp" data-wow-delay="0.2s">
-                        <!-- Icon Box Start -->
                         <div class="icon-box">
-                            <img src="images/icon-pricing-item-2-prime.svg" alt="">
+                            <img src="assets/img/icono-precio2.png" alt="servicio">
                         </div>
-                        <!-- Icon Box End -->
-
-                        <!-- Pricing Item Content Start -->
                         <div class="pricing-item-content-prime">
                             <h2>Sitio Web Empresarial</h2>
-                            <p>
-                                Ideal para empresas o negocios que necesitan mostrar más información, servicios, 
-                                secciones y contenido.
-                            </p>
-                            <p>
-                                Incluye hasta 8 páginas, dominio, hosting, SSL, correos empresariales, formulario 
-                                de contacto, WhatsApp, Google Maps y soporte técnico.
-                            </p>
-                            <p>Entrega aproximada: 5 a 7 días.</p>
                         </div>
-                        <!-- Pricing Item Content End --> 
-                        
-                        <!-- Pricing Item Price Start -->
                         <div class="pricing-item-price-prime">
                             <h3>8,000 MXN</h3>
                         </div>
-                        <!-- Pricing Item Price End -->
-
-                        <!-- Pricing Item List Start -->
                         <div class="pricing-item-list-prime">
                             <h3>¿Qué incluye?</h3>
                             <ul>
@@ -579,46 +484,25 @@
                                 <li>Cambios menores de contenido</li>
                             </ul>
                         </div>
-                        <!-- Pricing Item List End -->
-
-                        <!-- Pricing Item Button Start -->
                         <div class="pricing-item-button-prime">
                             <a href="contact.html" class="btn-default">Get Started With Plans</a>
                         </div>
-                        <!-- Pricing Item Button End -->
                     </div>
-                    <!-- Pricing Plan Start -->
                 </div>
+                <!-- Precio2 Fin -->
 
+                <!-- Precio3 Inicio -->
                 <div class="col-xl-4 col-md-6">
-                    <!-- Pricing Item Start -->
                     <div class="pricing-item-prime wow fadeInUp" data-wow-delay="0.4s">
-                        <!-- Icon Box Start -->
                         <div class="icon-box">
-                            <img src="images/icon-pricing-item-3-prime.svg" alt="">
+                            <img src="assets/img/icono-precio3.png" alt="servicio">
                         </div>
-                        <!-- Icon Box End -->
-
-                        <!-- Pricing Item Content Start -->
                         <div class="pricing-item-content-prime">
                             <h2>Aplicación Web</h2>
-                            <p>
-                                Desarrollamos sistemas personalizados para negocios que necesitan automatizar procesos, 
-                                administrar información o mejorar su operación interna.
-                            </p>
-                            <p>
-                                Cotización personalizada.
-                            </p>
                         </div>
-                        <!-- Pricing Item Content End --> 
-                        
-                        <!-- Pricing Item Price Start -->
                         <div class="pricing-item-price-prime">
                             <h3><sub>Desde</sub> 20,000 MXN</sub></h3>
                         </div>
-                        <!-- Pricing Item Price End -->
-
-                        <!-- Pricing Item List Start -->
                         <div class="pricing-item-list-prime">
                             <h3>¿Qué incluye?</h3>
                             <ul>
@@ -626,31 +510,15 @@
                                 <li>Hosting Incluido</li>
                                 <li>Análisis de Requerimientos</li>
                                 <li>Panel Administrativo</li>
-                                <li>Panel Administrativo</li>
+                                <li>Entrega Semanal de Avances</li>
                             </ul>
                         </div>
-                        <!-- Pricing Item List End -->
-
-                        <!-- Pricing Item Button Start -->
                         <div class="pricing-item-button-prime">
                             <a href="contact.html" class="btn-default">Get Started With Plans</a>
                         </div>
-                        <!-- Pricing Item Button End -->
                     </div>
-                    <!-- Pricing Plan Start -->
                 </div>
-
-                <div class="col-lg-12">
-                    <!-- Pricing Benefits List Start -->
-                    <div class="pricing-benefit-list-prime wow fadeInUp" data-wow-delay="0.4s">
-                        <ul>
-                            <li><img src="images/icon-pricing-benefit-1.svg" alt="">Get 30 day free trial</li>
-                            <li><img src="images/icon-pricing-benefit-2.svg" alt="">No any hidden fees pay</li>
-                            <li><img src="images/icon-pricing-benefit-3.svg" alt="">You can cancel anytime</li>
-                        </ul>
-                    </div>
-                    <!-- Pricing Benefits List End -->
-                </div>
+                <!-- Precio3 Fin -->
             </div>
         </div>
     </div>

@@ -3,7 +3,10 @@
     $phone_link = "+526564012656";
     $email = "hola@aravisweb.com";
 ?>
-
+<!-- 
+    #017EF1 
+    H:209, S:100, B:94
+-->
 <!DOCTYPE html>
 <html lang="es-MX">
 <head>
@@ -127,7 +130,4 @@
 	</header>
 	<!-- Header Fin -->
 
-    <!-- 
-        #017EF1 
-        H:209, S:100, B:94
-    -->
+    
