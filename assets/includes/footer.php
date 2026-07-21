@@ -10,9 +10,18 @@
                     <div class="footer-social-links">
                         <h2>Síguenos en redes sociales:</h2>
                         <ul>
-                            <li><a href="#"><i class="fa-brands fa-facebook-f"></i>Facebook</a></li>
-                            <li><a href="#"><i class="fa-brands fa-instagram"></i>Instagram</a></li>
-                            <li><a href="#"><i class="fa-brands fa-linkedin-in"></i>LinkedIn</a></li>
+                            <li>
+                                <a href="<?php echo $facebook; ?>" target="_blank">
+                                    <i class="fa-brands fa-facebook-f"></i>
+                                    Facebook
+                                </a>
+                            </li>
+                            <li>
+                                <a href="<?php echo $whatsapp; ?>" target="_blank">
+                                    <i class="fa-brands fa-whatsapp"></i>
+                                    Whatsapp
+                                </a>
+                            </li>
                         </ul>
                     </div>
                 </div>
