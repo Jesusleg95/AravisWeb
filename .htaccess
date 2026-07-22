@@ -1,0 +1,6 @@
+
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^aravisweb\.com\.mx$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.aravisweb\.com\.mx$
+RewriteRule ^(.*)$ "https\:\/\/aravisweb\.com\/$1" [R=301,L]
+

@@ -45,7 +45,7 @@
                             </li>
                             <li>
                                 <a href="<?php echo $phone_link; ?>">
-                                    <img src="images/icon-phone-white.svg" alt="icono tel">
+                                    <img src="assets/img/icon-phone-white.svg" alt="icono tel">
                                     <?php echo $phone; ?>
                                 </a>
                             </li>
@@ -59,19 +59,19 @@
                     <div class="footer-links">
                         <h2>Navegación</h2>
                         <ul>
-                            <li><a href="#">Inicio</a></li>
-                            <li><a href="#">Nosotros</a></li>
-                            <li><a href="#">Servicios</a></li>
-                            <li><a href="#">Faq</a></li>
+                            <li><a href="./">Inicio</a></li>
+                            <li><a href="#nosotros">Nosotros</a></li>
+                            <li><a href="#servicios">Servicios</a></li>
+                            <li><a href="#faqs">Faq</a></li>
                         </ul>
                     </div>
                     <div class="footer-links">
                         <h2>Nuestros Servicios</h2>
                         <ul>
-                            <li><a href="#">Landing Page</a></li>
-                            <li><a href="#">Sitio Web Empresarial</a></li>
-                            <li><a href="#">Aplicación Web</a></li>
-                            <li><a href="#">Correo Empresarial</a></li>
+                            <li><a href="#planes">Landing Page</a></li>
+                            <li><a href="#planes">Sitio Web Empresarial</a></li>
+                            <li><a href="#planes">Aplicación Web</a></li>
+                            <li><a href="#planes">Correo Empresarial</a></li>
                         </ul>
                     </div>
                     <div class="footer-links footer-working-hours-box">
@@ -95,37 +95,37 @@
 <!-- Footer Fin -->
 
     <!-- Jquery Library File -->
-    <script src="js/jquery-3.7.1.min.js"></script>
+    <script src="assets/js/jquery-3.7.1.min.js"></script>
     <!-- Bootstrap js file -->
-    <script src="js/bootstrap.min.js"></script>
+    <script src="assets/js/bootstrap.min.js"></script>
     <!-- Validator js file -->
-    <script src="js/validator.min.js"></script>
+    <script src="assets/js/validator.min.js"></script>
     <!-- SlickNav js file -->
-    <script src="js/jquery.slicknav.js"></script>
+    <script src="assets/js/jquery.slicknav.js"></script>
     <!-- Swiper js file -->
-    <script src="js/swiper-bundle.min.js"></script>
+    <script src="assets/js/swiper-bundle.min.js"></script>
     <!-- Counter js file -->
-    <script src="js/jquery.waypoints.min.js"></script>
-    <script src="js/jquery.counterup.min.js"></script>
+    <script src="assets/js/jquery.waypoints.min.js"></script>
+    <script src="assets/js/jquery.counterup.min.js"></script>
     <!-- Magnific js file -->
-    <script src="js/jquery.magnific-popup.min.js"></script>
+    <script src="assets/js/jquery.magnific-popup.min.js"></script>
     <!-- SmoothScroll -->
-    <script src="js/SmoothScroll.js"></script>
+    <script src="assets/js/SmoothScroll.js"></script>
     <!-- Parallax js -->
-    <script src="js/parallaxie.js"></script>
+    <script src="assets/js/parallaxie.js"></script>
     <!-- MagicCursor js file -->
-    <script src="js/gsap.min.js"></script>
-    <script src="js/magiccursor.js"></script>
+    <script src="assets/js/gsap.min.js"></script>
+    <script src="assets/js/magiccursor.js"></script>
     <!-- Text Effect js file -->
-    <script src="js/SplitText.min.js"></script>
-    <script src="js/ScrollTrigger.min.js"></script>
+    <script src="assets/js/SplitText.min.js"></script>
+    <script src="assets/js/ScrollTrigger.min.js"></script>
     <!-- YTPlayer js File -->
-    <script src="js/jquery.mb.YTPlayer.min.js"></script>
+    <script src="assets/js/jquery.mb.YTPlayer.min.js"></script>
     <!-- Typed js file -->
-	<script src="js/typed.js"></script>
+	<script src="assets/js/typed.js"></script>
     <!-- Wow js file -->
-    <script src="js/wow.min.js"></script>
+    <script src="assets/js/wow.min.js"></script>
     <!-- Main Custom js file -->
-    <script src="js/function.js"></script>
+    <script src="assets/js/function.js"></script>
 </body>
 </html>
