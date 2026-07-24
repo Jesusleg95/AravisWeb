@@ -6,10 +6,7 @@
     $whatsapp = "https://wa.me/526564234960?text=Hola%2C%20me%20interesa%20una%20p%C3%A1gina%20web%20para%20mi%20negocio";
     $maps = "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d145073.98299647568!2d-106.52056173114838!3d31.65208227778436!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86e75ecb3d0b329d%3A0xb196100549c7974!2zSnXDoXJleiwgQ2hpaC4!5e0!3m2!1ses-419!2smx!4v1784661053509!5m2!1ses-419!2smx";
 ?>
-<!-- 
-    #017EF1 
-    H:209, S:100, B:94
--->
+
 <!DOCTYPE html>
 <html lang="es-MX">
 <head>
@@ -46,11 +43,13 @@
     <meta property="og:site_name" content="AravisWeb">
     <meta property="og:image" content="https://aravisweb.com/assets/img/og-image.png">
     <meta property="og:image:alt" content="AravisWeb - Desarrollo web profesional para negocios en México">
-	
+
+    <!-- Search Console -->
+    <meta name="google-site-verification" content="-rLQYCRALhEm0Fnqr0ryh9F-QBu9zMc8VzoZcm6gVDA" />
+
     <!-- Favicon -->
     <link rel="icon" href="assets/img/favicon.png">
    
-	
     <!-- Google Fonts Css-->
 	<link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
