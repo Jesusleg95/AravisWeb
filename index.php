@@ -17,7 +17,7 @@
                     <div class="hero-contant">
                         <div class="section-title">
                             <span class="section-sub-title wow fadeInUp">AravisWeb</span>
-                            <h1 class="wow fadeInUp" data-wow-delay="0.2s" data-cursor="-opaque">
+                            <h1 class="wow fadeInUp" data-wow-delay="0.2s">
                                 Páginas web profesionales para negocios en México
                             </h1>
                             <p class="wow fadeInUp" data-wow-delay="0.4s">
@@ -122,7 +122,7 @@
                     <div class="about-us-content-royal">
                         <div class="section-title">
                             <span class="section-sub-title wow fadeInUp">Nosotros</span>
-                            <h2 class="text-anime-style-3" data-cursor="-opaque">
+                            <h2 class="text-anime-style-3">
                                 ¿Quiénes somos?
                             </h2>
                             <p class="wow fadeInUp" data-wow-delay="0.2s">
@@ -153,7 +153,7 @@
                 <div class="col-xl-6">
                     <div class="section-title">
                         <span class="section-sub-title wow fadeInUp">¿Cómo Trabajamos?</span>
-                        <h2 class="text-anime-style-3" data-cursor="-opaque">Proceso de trabajo</h2>
+                        <h2 class="text-anime-style-3">Proceso de trabajo</h2>
                     </div>
                 </div>
             </div>
@@ -306,7 +306,7 @@
                 <div class="col-lg-12">
                     <div class="section-title section-title-center">
                         <span class="section-sub-title wow fadeInUp">Nuestros Servicios</span>
-                        <h2 class="text-anime-style-3" data-cursor="-opaque">
+                        <h2 class="text-anime-style-3">
                             Servicios pensados para ayudar a tener una presencia digital profesional
                         </h2>
                     </div>
@@ -417,7 +417,7 @@
             <div class="row section-row">
                 <div class="section-title section-title-center">
                     <span class="section-sub-title wow fadeInUp">Precios</span>
-                    <h2 class="text-anime-style-3" data-cursor="-opaque">
+                    <h2 class="text-anime-style-3">
                         Planes asequibles adaptados a las necesidades de su negocio
                     </h2>
                 </div>
@@ -550,7 +550,7 @@
                     <div class="page-faqs-catagery">
                         <div class="page-single-faqs" id="faq_1">
                             <div class="section-title">
-                                <h2 class="text-anime-style-2" data-cursor="-opaque">
+                                <h2 class="text-anime-style-2">
                                     ¿Alguna duda?
                                 </h2>
                             </div>
@@ -732,7 +732,7 @@
                     </div>
                     <div class="core-features-content-royal">
                         <div class="section-title">
-                            <h2 class="text-anime-style-3" data-cursor="-opaque">
+                            <h2 class="text-anime-style-3">
                                 ¿Listo para llevar tu negocio a internet?
                             </h2>
                             <p class="wow fadeInUp" data-wow-delay="0.2s">

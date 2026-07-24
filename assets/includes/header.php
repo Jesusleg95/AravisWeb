@@ -58,16 +58,9 @@
 	<link rel="stylesheet" href="assets/css/bootstrap.min.css" media="screen">
 	<!-- SlickNav Css -->
 	<link rel="stylesheet" href="assets/css/slicknav.min.css">
-	<!-- Swiper Css -->
-	<link rel="stylesheet" href="assets/css/swiper-bundle.min.css">
-	<!-- Font Awesome Icon Css-->
 	<link rel="stylesheet" href="assets/css/all.min.css" media="screen">
 	<!-- Animated Css -->
 	<link rel="stylesheet" href="assets/css/animate.css" >
-    <!-- Magnific Popup Core Css File -->
-	<link rel="stylesheet" href="assets/css/magnific-popup.css">
-	<!-- Mouse Cursor Css File -->
-	<link rel="stylesheet" href="assets/css/mousecursor.css">
 	<!-- Main Custom Css -->
 	<link rel="stylesheet" href="assets/css/custom.css" media="screen">
 </head>
