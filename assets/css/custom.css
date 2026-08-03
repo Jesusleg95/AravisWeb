@@ -390,7 +390,7 @@ a:focus{
 
 .dark-section{
 	background-color: var(--primary-color);
-	background-image: url('../assets/img/bg-section.png');
+	background-image: url('../../assets/img/bg-section.webp');
 	background-repeat: no-repeat;
 	background-position: top center;
 	background-size: cover;

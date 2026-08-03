@@ -36,7 +36,7 @@
                         <!-- Info Inicio -->
                         <div class="hero-counter-item">
                             <div class="hero-counter-item-no text-center">
-                                <img src="assets/img/icono-hero-1.png" alt="icono hero">
+                                <img src="assets/img/icono-hero-1.png" alt="icono hero sitios rapidos">
                             </div>
                             <div class="hero-counter-item-content">
                                 <p class="fw-bold text-center">Sitios rápidos</p>
@@ -50,7 +50,7 @@
                         <!-- Info Inicio -->
                         <div class="hero-counter-item">
                             <div class="hero-counter-item-no text-center">
-                                <img src="assets/img/icono-hero-2.png" alt="icono hero">
+                                <img src="assets/img/icono-hero-2.png" alt="icono hero seguros y confiables">
                             </div>
                             <div class="hero-counter-item-content">
                                 <p class="text-center">Seguros y confiables</p>
@@ -62,7 +62,7 @@
                         <!-- Info Inicio -->
                         <div class="hero-counter-item">
                             <div class="hero-counter-item-no">
-                                <img src="assets/img/icono-hero-3.png" alt="icono hero">
+                                <img src="assets/img/icono-hero-3.png" alt="icono hero disenados para convertir">
                             </div>
                             <div class="hero-counter-item-content">
                                 <p class="text-center">Diseñados para convertir</p>
@@ -81,25 +81,25 @@
     <div class="our-scrolling-ticker-royal">
         <div class="scrolling-ticker-box-royal">
             <div class="scrolling-content-royal">
-                <span><img src="assets/img/icon-sparkle-white.svg" alt="icono">Landing Page</span>
-                <span><img src="assets/img/icon-sparkle-white.svg" alt="icono">Sitio Web Empresarial</span>
-                <span><img src="assets/img/icon-sparkle-white.svg" alt="icono">Aplicación Web</span>
-                <span><img src="assets/img/icon-sparkle-white.svg" alt="icono">Correo Empresarial</span>
-                <span><img src="assets/img/icon-sparkle-white.svg" alt="icono">Landing Page</span>
-                <span><img src="assets/img/icon-sparkle-white.svg" alt="icono">Sitio Web Empresarial</span>
-                <span><img src="assets/img/icon-sparkle-white.svg" alt="icono">Aplicación Web</span>
-                <span><img src="assets/img/icon-sparkle-white.svg" alt="icono">Correo Empresarial</span>
+                <span><img src="assets/img/icon-sparkle-white.svg" alt="icono estrella carrusel">Landing Page</span>
+                <span><img src="assets/img/icon-sparkle-white.svg" alt="icono estrella carrusel">Sitio Web Empresarial</span>
+                <span><img src="assets/img/icon-sparkle-white.svg" alt="icono estrella carrusel">Aplicación Web</span>
+                <span><img src="assets/img/icon-sparkle-white.svg" alt="icono estrella carrusel">Correo Empresarial</span>
+                <span><img src="assets/img/icon-sparkle-white.svg" alt="icono estrella carrusel">Landing Page</span>
+                <span><img src="assets/img/icon-sparkle-white.svg" alt="icono estrella carrusel">Sitio Web Empresarial</span>
+                <span><img src="assets/img/icon-sparkle-white.svg" alt="icono estrella carrusel">Aplicación Web</span>
+                <span><img src="assets/img/icon-sparkle-white.svg" alt="icono estrella carrusel">Correo Empresarial</span>
             </div>
 
             <div class="scrolling-content-royal">
-                <span><img src="assets/img/icon-sparkle-white.svg" alt="icono">Landing Page</span>
-                <span><img src="assets/img/icon-sparkle-white.svg" alt="icono">Sitio Web Empresarial</span>
-                <span><img src="assets/img/icon-sparkle-white.svg" alt="icono">Aplicación Web</span>
-                <span><img src="assets/img/icon-sparkle-white.svg" alt="icono">Correo Empresarial</span>
-                <span><img src="assets/img/icon-sparkle-white.svg" alt="icono">Landing Page</span>
-                <span><img src="assets/img/icon-sparkle-white.svg" alt="icono">Sitio Web Empresarial</span>
-                <span><img src="assets/img/icon-sparkle-white.svg" alt="icono">Aplicación Web</span>
-                <span><img src="assets/img/icon-sparkle-white.svg" alt="icono">Correo Empresarial</span>
+                <span><img src="assets/img/icon-sparkle-white.svg" alt="icono estrella carrusel">Landing Page</span>
+                <span><img src="assets/img/icon-sparkle-white.svg" alt="icono estrella carrusel">Sitio Web Empresarial</span>
+                <span><img src="assets/img/icon-sparkle-white.svg" alt="icono estrella carrusel">Aplicación Web</span>
+                <span><img src="assets/img/icon-sparkle-white.svg" alt="icono estrella carrusel">Correo Empresarial</span>
+                <span><img src="assets/img/icon-sparkle-white.svg" alt="icono estrella carrusel">Landing Page</span>
+                <span><img src="assets/img/icon-sparkle-white.svg" alt="icono estrella carrusel">Sitio Web Empresarial</span>
+                <span><img src="assets/img/icon-sparkle-white.svg" alt="icono estrella carrusel">Aplicación Web</span>
+                <span><img src="assets/img/icon-sparkle-white.svg" alt="icono estrella carrusel">Correo Empresarial</span>
             </div>
         </div>
     </div>
@@ -113,7 +113,7 @@
                     <div class="about-us-image-box-royal wow fadeInUp">
                         <div class="about-us-image-royal">
                             <figure class="image-anime">
-                                <img src="assets/img/nosotros.png" alt="">
+                                <img src="assets/img/nosotros.webp" alt="imagen de nosotros">
                             </figure>
                         </div>
                     </div>
@@ -163,7 +163,7 @@
                     <div class="faqs-image-box-royal wow fadeInUp">
                         <div class="faqs-image-royal">
                             <figure class="image-anime">
-                                <img src="assets/img/proceso.png" alt="imagen proceso">
+                                <img src="assets/img/proceso.webp" alt="imagen seccion proceso">
                             </figure>
                         </div>
                         <div class="faqs-cta-box-royal">
@@ -171,7 +171,7 @@
                             <div class="faqs-cta-item-royal">
                                 <ul>
                                     <li>
-                                        <img src="assets/img/icon-phone.svg" alt="icono telefono">
+                                        <img src="assets/img/icon-phone.svg" alt="icono telefono alguna duda">
                                         <a href="telto:<?php echo $phone_link; ?>">
                                             <?php echo $phone; ?>
                                         </a>
@@ -326,7 +326,7 @@
                                 </p>
                             </div>
                             <div class="icon-box text-center">
-                                <img src="assets/img/icono-servicio1.png" alt="servicio">
+                                <img src="assets/img/icono-servicio1.png" alt="icono landing page">
                             </div>
                         </div>
                         <div class="technology-item-content">
@@ -349,7 +349,7 @@
                                 </p>
                             </div>
                             <div class="icon-box text-center">
-                                <img src="assets/img/icono-servicio2.png" alt="">
+                                <img src="assets/img/icono-servicio2.png" alt="sitio web icono">
                             </div>
                         </div>
                         <div class="technology-item-content">
@@ -373,7 +373,7 @@
                                 </p>
                             </div>
                             <div class="icon-box text-center">
-                                <img src="assets/img/icono-servicio3.png" alt="servicio">
+                                <img src="assets/img/icono-servicio3.png" alt="icono aplicacion web">
                             </div>
                         </div>
                         <div class="technology-item-content">
@@ -396,7 +396,7 @@
                                 </p>
                             </div>
                             <div class="icon-box text-center">
-                                <img src="assets/img/icono-servicio4.png" alt="servicio">
+                                <img src="assets/img/icono-servicio4.png" alt="icono correo empresarial">
                             </div>
                         </div>
                         <div class="technology-item-content">
@@ -428,7 +428,7 @@
                 <div class="col-xl-4 col-md-6">
                     <div class="pricing-item-prime wow fadeInUp">
                         <div class="icon-box">
-                            <img src="assets/img/icono-precio1.png" alt="servicio">
+                            <img src="assets/img/icono-precio1.png" alt="icono precio landing page">
                         </div>
                         <div class="pricing-item-content-prime">
                             <h2>Landing Page</h2>
@@ -467,7 +467,7 @@
                 <div class="col-xl-4 col-md-6">
                     <div class="pricing-item-prime wow fadeInUp" data-wow-delay="0.2s">
                         <div class="icon-box">
-                            <img src="assets/img/icono-precio2.png" alt="servicio">
+                            <img src="assets/img/icono-precio2.png" alt="icono precio sitio web">
                         </div>
                         <div class="pricing-item-content-prime">
                             <h2>Sitio Web Empresarial</h2>
@@ -507,7 +507,7 @@
                 <div class="col-xl-4 col-md-6">
                     <div class="pricing-item-prime wow fadeInUp" data-wow-delay="0.4s">
                         <div class="icon-box">
-                            <img src="assets/img/icono-precio3.png" alt="servicio">
+                            <img src="assets/img/icono-precio3.png" alt="icono precio aplicacion web">
                         </div>
                         <div class="pricing-item-content-prime">
                             <h2>Aplicación Web</h2>
@@ -727,7 +727,7 @@
                 <div class="col-xl-12">
                     <div class="core-features-image-royal">
                         <figure>
-                            <img src="assets/img/cta.png" alt="cta">
+                            <img src="assets/img/cta.webp" alt="imagen call to action">
                         </figure>
                     </div>
                     <div class="core-features-content-royal">
@@ -767,7 +767,7 @@
                         <div class="contact-us-content-box">
                             <div class="contact-box-header-item wow fadeInUp">
                                 <div class="icon-box">
-                                    <img src="assets/img/icon-headphone-white.svg" alt="logo">
+                                    <img src="assets/img/icon-headphone-white.svg" alt="icono informacion contacto">
                                 </div>
                                 <div class="contact-box-header-item-content">
                                     <h2>
@@ -782,7 +782,7 @@
                             <div class="contact-info-list">
                                 <div class="contact-info-item wow fadeInUp" data-wow-delay="0.2s">
                                     <div class="icon-box">
-                                        <img src="assets/img/icon-headphone-white.svg" alt="logo">
+                                        <img src="assets/img/icon-headphone-white.svg" alt="icono contacto telefono">
                                     </div>
                                     <div class="contact-info-item-content">
                                         <h3>
@@ -794,7 +794,7 @@
                                 </div>
                                 <div class="contact-info-item wow fadeInUp" data-wow-delay="0.4s">
                                     <div class="icon-box">
-                                        <img src="assets/img/icon-mail-white.svg" alt="logo">
+                                        <img src="assets/img/icon-mail-white.svg" alt="icono contacto email">
                                     </div>
                                     <div class="contact-info-item-content">
                                         <h3>
@@ -806,7 +806,7 @@
                                 </div>
                                 <div class="contact-info-item wow fadeInUp" data-wow-delay="0.6s">
                                     <div class="icon-box">
-                                        <img src="assets/img/icon-location-white.svg" alt="">
+                                        <img src="assets/img/icon-location-white.svg" alt="icono contacto location">
                                     </div>
                                     <div class="contact-info-item-content">
                                         <h3>

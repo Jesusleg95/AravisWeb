@@ -15,7 +15,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	
     <!-- Título principal -->
-    <title>AravisWeb - Desarrollo web profesional para negocios en México</title>
+    <title>AravisWeb | Páginas web para negocios en México</title>
 
     <!-- SEO Básico -->
     <meta 
@@ -70,7 +70,7 @@
 	<div class="preloader">
 		<div class="loading-container">
 			<div class="loading"></div>
-			<div id="loading-icon"><img src="assets/img/logo.png" alt="logo"></div>
+			<div id="loading-icon"><img src="assets/img/logo.png" alt="icono AravisWeb preloader"></div>
 		</div>
 	</div>
 	<!-- Preloader End -->
@@ -82,7 +82,7 @@
 				<div class="container">
 					<!-- Logo Inicio -->
 					<a class="navbar-brand text-light" href="./">
-						<img src="assets/img/logo.png" alt="Logo" class="logo">
+						<img src="assets/img/logo.png" alt="logo AravisWeb header" class="logo">
 					</a>
 					<!-- Logo Fin -->
 

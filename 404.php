@@ -22,7 +22,7 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="error-page-image wow fadeInUp">
-                        <img src="assets/img/404.png" alt="404">
+                        <img src="assets/img/404.webp" alt="404">
                     </div>
                     <div class="error-page-content">
                         <div class="section-title">

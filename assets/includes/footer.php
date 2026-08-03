@@ -5,7 +5,7 @@
             <div class="col-lg-12">
                 <div class="footer-header">
                     <div class="footer-logo">
-                        <img src="assets/img/logo-footer.png" alt="logo">
+                        <img src="assets/img/logo-footer.png" alt="logo footer AravisWeb">
                     </div>
                     <div class="footer-social-links">
                         <h2>Síguenos en redes sociales:</h2>
@@ -39,13 +39,13 @@
                         <ul>
                             <li>
                                 <a href="mailto:<?php echo $email; ?>">
-                                    <img src="assets/img/icon-mail-white.svg" alt="icono email">
+                                    <img src="assets/img/icon-mail-white.svg" alt="icono footer email">
                                     <?php echo $email; ?>
                                 </a>
                             </li>
                             <li>
                                 <a href="<?php echo $phone_link; ?>">
-                                    <img src="assets/img/icon-phone-white.svg" alt="icono tel">
+                                    <img src="assets/img/icon-phone-white.svg" alt="icono footer telefono">
                                     <?php echo $phone; ?>
                                 </a>
                             </li>
