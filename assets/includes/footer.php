@@ -8,7 +8,7 @@
                         <img src="assets/img/logo-footer.png" alt="logo footer AravisWeb">
                     </div>
                     <div class="footer-social-links">
-                        <h2>Síguenos en redes sociales:</h2>
+                        <p class="footer-social-follow">Síguenos en redes sociales:</p>
                         <ul>
                             <li>
                                 <a href="<?php echo $facebook; ?>" target="_blank">
@@ -44,7 +44,7 @@
                                 </a>
                             </li>
                             <li>
-                                <a href="<?php echo $phone_link; ?>">
+                                <a href="callto:<?php echo $phone_link; ?>">
                                     <img src="assets/img/icon-phone-white.svg" alt="icono footer telefono">
                                     <?php echo $phone; ?>
                                 </a>
@@ -57,7 +57,7 @@
             <div class="col-xl-8">
                 <div class="footer-links-box">
                     <div class="footer-links">
-                        <h2>Navegación</h2>
+                        <p class="footer-links-list">Navegación</p>
                         <ul>
                             <li><a href="./">Inicio</a></li>
                             <li><a href="#nosotros">Nosotros</a></li>
@@ -66,7 +66,7 @@
                         </ul>
                     </div>
                     <div class="footer-links">
-                        <h2>Nuestros Servicios</h2>
+                        <p class="footer-links-list">Nuestros Servicios</p>
                         <ul>
                             <li><a href="#planes">Landing Page</a></li>
                             <li><a href="#planes">Sitio Web Empresarial</a></li>
@@ -75,7 +75,7 @@
                         </ul>
                     </div>
                     <div class="footer-links footer-working-hours-box">
-                        <h2>Horario</h2>
+                        <p class="footer-links-list">Horario</p>
                         <ul>
                             <li>Lunes - Viernes: 9:00 AM - 06:00 PM</li>
                             <li>Sabado: 9:00 AM - 02:00 PM</li>

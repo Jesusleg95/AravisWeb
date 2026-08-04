@@ -54,14 +54,8 @@
 	<link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Cal+Sans&display=swap" rel="stylesheet">
-	<!-- Bootstrap Css -->
-	<link rel="stylesheet" href="assets/css/bootstrap.min.css" media="screen">
-	<!-- SlickNav Css -->
-	<link rel="stylesheet" href="assets/css/slicknav.min.css">
-	<link rel="stylesheet" href="assets/css/all.min.css" media="screen">
-	<!-- Animated Css -->
-	<link rel="stylesheet" href="assets/css/animate.css" >
-	<!-- Main Custom Css -->
+	
+    <link rel="stylesheet" href="assets/css/style.css">
 	<link rel="stylesheet" href="assets/css/custom.css" media="screen">
 </head>
 <body>

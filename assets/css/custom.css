@@ -478,6 +478,12 @@ a:focus{
 	margin-bottom: 0;
 }
 
+.section-title .cta{
+	font-size: 48px;
+	margin-bottom: 0;
+	line-height: 1.2em;
+}
+
 .dark-section .section-title .section-sub-title,
 .dark-section .section-title h1,
 .dark-section .section-title h2,
@@ -1818,6 +1824,11 @@ header.main-header .header-sticky.active{
 	transition: all 0.4s ease-in-out;
 }
 
+.technology-item-counter h3{
+	font-size: 34px;
+	transition: all 0.4s ease-in-out;
+}
+
 .technology-item-counter p{
 	margin: 10px 0 0;
 	transition: all 0.4s ease-in-out;
@@ -1854,6 +1865,12 @@ header.main-header .header-sticky.active{
 	transition: all 0.4s ease-in-out;
 }
 
+.technology-item-content .technology-item-text{
+	color: var(--primary-color);
+	font-size: 20px;
+	transition: all 0.4s ease-in-out;
+}
+
 .technology-item-content p{
 	margin: 10px 0 0;
 	transition: all 0.4s ease-in-out;
@@ -1861,6 +1878,8 @@ header.main-header .header-sticky.active{
 
 .technology-item.active .technology-item-counter h2,
 .technology-item:hover .technology-item-counter h2,
+.technology-item.active .technology-item-counter h3,
+.technology-item:hover .technology-item-counter h3,
 .technology-item.active .technology-item-counter p,
 .technology-item:hover .technology-item-counter p,
 .technology-item.active .technology-item-content h3,
@@ -2585,9 +2604,12 @@ header.main-header .header-sticky.active{
     gap: 15px 40px;
 }
 
-.footer-social-links h2{
+.footer-social-links .footer-social-follow{
     font-size: 20px;
     color: var(--white-color);
+	font-weight: 400;
+	line-height: 1.2em;
+	margin: 0;
 }
 
 .footer-social-links ul{
@@ -2682,7 +2704,7 @@ header.main-header .header-sticky.active{
     max-width: 33%;
 }
 
-.footer-links h2{
+.footer-links .footer-links-list{
 	font-size: 20px;
 	color: var(--white-color);
 	margin-bottom: 25px;
@@ -4875,17 +4897,17 @@ header.main-header .header-sticky.active{
     line-height: normal;
 }
 
-.contact-info-item-content h3{
+.contact-info-item-content .contact-info-item-action{
     font-size: 20px;
     color: var(--white-color);
 }
 
-.contact-info-item-content h3 a{
+.contact-info-item-content .contact-info-item-action a{
 	color: inherit;
 	transition: all 0.4s ease-in-out;
 }
 
-.contact-info-item-content h3 a:hover{
+.contact-info-item-content .contact-info-item-action a:hover{
 	color: var(--accent-color);
 }
 
@@ -5698,7 +5720,7 @@ header.main-header .header-sticky.active{
 		padding: 10px;
 	}
 
-	.footer-links h2{
+	.footer-links .footer-links-list{
 		margin-bottom: 20px;
 	}
 
@@ -6392,7 +6414,7 @@ header.main-header .header-sticky.active{
 		font-size: 18px;
 	}
 
-	.footer-social-links h2{
+	.footer-social-links .footer-social-links{
 		font-size: 18px;
 	}
 
@@ -6417,7 +6439,7 @@ header.main-header .header-sticky.active{
 		max-width: 100%;
 	}
 
-	.footer-links h2{
+	.footer-links .footer-links-list{
 		font-size: 18px;
 		margin-bottom: 15px;
 	}
@@ -7835,6 +7857,12 @@ header.main-header .header-sticky.active{
 }
 
 .faqs-cta-box-royal h2{
+	font-size: 20px;
+	color: var(--white-color);
+	margin-bottom: 20px;
+}
+
+.faqs-cta-box-royal p{
 	font-size: 20px;
 	color: var(--white-color);
 	margin-bottom: 20px;
@@ -9660,20 +9688,33 @@ header.main-header .header-sticky.active{
 	padding: 20px;
 }
 
-.pricing-item-price-prime h3{
-	font-size: 42px;
-	line-height: 1em;
+.pricing-item-content-prime h3{
+	font-size: 20px;
 }
 
-.pricing-item-price-prime h3 sub{
+.pricing-item-price-prime .pricing-item-price-label{
+	font-size: 42px;
+	line-height: 1em;
+	margin-bottom: 0;
+	color: var(--primary-color);
+}
+
+.pricing-item-price-prime .pricing-item-price-label sub{
 	font-size: 16px;
 	bottom: 0;
 }
 
-.pricing-item-list-prime h3{
+.pricing-item-list-prime h5{
 	font-size: 20px;
 	margin-bottom: 20px;
 }
+
+.pricing-item-list-prime .pricing-item-list-title{
+	font-size: 20px;
+	margin-bottom: 20px;
+	color: var(--primary-color);
+}
+
 
 .pricing-item-list-prime ul{
 	list-style: none;

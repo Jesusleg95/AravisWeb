@@ -61,7 +61,7 @@
 
                         <!-- Info Inicio -->
                         <div class="hero-counter-item">
-                            <div class="hero-counter-item-no">
+                            <div class="hero-counter-item-no text-center">
                                 <img src="assets/img/icono-hero-3.png" alt="icono hero disenados para convertir">
                             </div>
                             <div class="hero-counter-item-content">
@@ -167,12 +167,12 @@
                             </figure>
                         </div>
                         <div class="faqs-cta-box-royal">
-                            <h2>¿Alguna duda?</h2>
+                            <p>¿Alguna duda?</p>
                             <div class="faqs-cta-item-royal">
                                 <ul>
                                     <li>
                                         <img src="assets/img/icon-phone.svg" alt="icono telefono alguna duda">
-                                        <a href="telto:<?php echo $phone_link; ?>">
+                                        <a href="callto:<?php echo $phone_link; ?>">
                                             <?php echo $phone; ?>
                                         </a>
                                     </li>
@@ -186,7 +186,7 @@
                     <div class="faq-accordion-royal" id="accordion">
                         <!-- Opcion 1 Inicio -->
                         <div class="accordion-item wow fadeInUp">
-                            <h2 class="accordion-header" id="heading1">
+                            <p class="accordion-header" id="heading1">
                                 <button 
                                     class="accordion-button collapsed" 
                                     type="button" data-bs-toggle="collapse" 
@@ -195,7 +195,7 @@
                                 >
                                     1. Cuéntanos sobre tu negocio
                                 </button>
-                            </h2>
+                            </p>
                             <div 
                                 id="collapse1" 
                                 class="accordion-collapse collapse" 
@@ -215,7 +215,7 @@
 
                         <!-- Opcion 2 Inicio -->
                         <div class="accordion-item wow fadeInUp" data-wow-delay="0.2s">
-                            <h2 class="accordion-header" id="heading2">
+                            <p class="accordion-header" id="heading2">
                                 <button 
                                     class="accordion-button collapsed" 
                                     type="button" 
@@ -226,7 +226,7 @@
                                 >
                                     2. Diseñamos la estructura
                                 </button>
-                            </h2>
+                            </p>
                             <div 
                                 id="collapse2" 
                                 class="accordion-collapse collapse" 
@@ -246,7 +246,7 @@
 
                         <!-- Opcion 3 Inicio -->
                         <div class="accordion-item wow fadeInUp" data-wow-delay="0.4s">
-                            <h2 class="accordion-header" id="heading3">
+                            <p class="accordion-header" id="heading3">
                                 <button 
                                     class="accordion-button" 
                                     type="button" 
@@ -257,7 +257,7 @@
                                 >
                                     3. Desarrollamos tu sitio
                                 </button>
-                            </h2>
+                            </p>
                             <div 
                                 id="collapse3" 
                                 class="accordion-collapse collapse show" 
@@ -275,13 +275,13 @@
                         </div>
                         <!-- Opcion 3 Fin -->
 
-                        <!-- Opcion 3 Inicio -->
+                        <!-- Opcion 4 Inicio -->
                         <div class="accordion-item wow fadeInUp" data-wow-delay="0.6s">
-                            <h2 class="accordion-header" id="heading4">
+                            <p class="accordion-header" id="heading4">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse4" aria-expanded="false" aria-controls="collapse4">
                                     4. Publicamos y damos soporte
                                 </button>
-                            </h2>
+                            </p>
                             <div id="collapse4" class="accordion-collapse collapse" role="region" aria-labelledby="heading4" data-bs-parent="#accordion">
                                 <div class="accordion-body">
                                     <p>
@@ -291,7 +291,7 @@
                                 </div>
                             </div>
                         </div>
-                        <!-- Opcion 3 Fin -->
+                        <!-- Opcion 4 Fin -->
                     </div>                
                 </div>
             </div>
@@ -307,7 +307,8 @@
                     <div class="section-title section-title-center">
                         <span class="section-sub-title wow fadeInUp">Nuestros Servicios</span>
                         <h2 class="text-anime-style-3">
-                            Servicios pensados para ayudar a tener una presencia digital profesional
+                            Servicios pensados para ayudar a tener una presencia digital 
+                            profesional
                         </h2>
                     </div>
                 </div>
@@ -319,7 +320,7 @@
                     <div class="technology-item active wow fadeInUp">
                         <div class="technology-item-header">
                             <div class="technology-item-counter">
-                                <h2>Landing Page</h2>
+                                <h3>Landing Page</h3>
                                 <p>
                                     Ideal para negocios que necesitan presencia 
                                     profesional en internet de forma rápida.
@@ -330,7 +331,7 @@
                             </div>
                         </div>
                         <div class="technology-item-content">
-                            <h3>Entrega aproximada</h3>
+                            <p class="technology-item-text">Entrega aproximada</p>
                             <p>48 horas</p>
                         </div>
                     </div>
@@ -342,7 +343,7 @@
                     <div class="technology-item wow fadeInUp" data-wow-delay="0.2s">
                         <div class="technology-item-header">
                             <div class="technology-item-counter">
-                                <h2>Sitio Web</h2>
+                                <h3>Sitio Web</h3>
                                 <p>
                                     Ideal para empresas o negocios que necesitan mostrar 
                                     más información, servicios, secciones y contenido. 
@@ -353,7 +354,7 @@
                             </div>
                         </div>
                         <div class="technology-item-content">
-                            <h3>Entrega aproximada</h3>
+                            <p class="technology-item-text">Entrega aproximada</p>
                             <p>5 a 7 días</p>
                         </div>
                     </div>
@@ -365,7 +366,7 @@
                     <div class="technology-item wow fadeInUp" data-wow-delay="0.4s">
                         <div class="technology-item-header">
                             <div class="technology-item-counter">
-                                <h2>Aplicación Web</h2>
+                                <h3>Aplicación Web</h3>
                                 <p>
                                     Desarrollamos sistemas personalizados para negocios que necesitan 
                                     automatizar procesos, administrar información o mejorar su operación 
@@ -377,7 +378,7 @@
                             </div>
                         </div>
                         <div class="technology-item-content">
-                            <h3>Entrega aproximada</h3>
+                            <p class="technology-item-text">Entrega aproximada</p>
                             <p>sujeto al alcance y requerimientos del proyecto</p>
                         </div>
                     </div>
@@ -389,7 +390,7 @@
                     <div class="technology-item wow fadeInUp" data-wow-delay="0.6s">
                         <div class="technology-item-header">
                             <div class="technology-item-counter">
-                                <h2>Correo Empresarial</h2>
+                                <h3>Correo Empresarial</h3>
                                 <p>
                                     Configuramos correos empresariales con tu propio dominio para que 
                                     tu negocio proyecte una imagen más profesional y confiable.
@@ -400,7 +401,7 @@
                             </div>
                         </div>
                         <div class="technology-item-content">
-                            <h3>Entrega aproximada</h3>
+                            <p class="technology-item-text">Entrega aproximada</p>
                             <p>24 horas</p>
                         </div>
                     </div>
@@ -431,13 +432,13 @@
                             <img src="assets/img/icono-precio1.png" alt="icono precio landing page">
                         </div>
                         <div class="pricing-item-content-prime">
-                            <h2>Landing Page</h2>
+                            <h3>Landing Page</h3>
                         </div>
                         <div class="pricing-item-price-prime">
-                            <h3>5,000 MXN</h3>
+                            <p class="pricing-item-price-label">5,000 MXN</p>
                         </div>
                         <div class="pricing-item-list-prime">
-                            <h3>¿Qué incluye?</h3>
+                            <p class="pricing-item-list-title">¿Qué incluye?</p>
                             <ul>
                                 <li>Dominio ".com" o ".com.mx"</li>
                                 <li>Hosting Incluido</li>
@@ -470,13 +471,13 @@
                             <img src="assets/img/icono-precio2.png" alt="icono precio sitio web">
                         </div>
                         <div class="pricing-item-content-prime">
-                            <h2>Sitio Web Empresarial</h2>
+                            <h3>Sitio Web Empresarial</h3>
                         </div>
                         <div class="pricing-item-price-prime">
-                            <h3>8,000 MXN</h3>
+                            <p class="pricing-item-price-label">8,000 MXN</p>
                         </div>
                         <div class="pricing-item-list-prime">
-                            <h3>¿Qué incluye?</h3>
+                            <p class="pricing-item-list-title">¿Qué incluye?</p>
                             <ul>
                                 <li>Sitio web de hasta 8 páginas</li>
                                 <li>Dominio ".com" o ".com.mx"</li>
@@ -510,13 +511,13 @@
                             <img src="assets/img/icono-precio3.png" alt="icono precio aplicacion web">
                         </div>
                         <div class="pricing-item-content-prime">
-                            <h2>Aplicación Web</h2>
+                            <h3>Aplicación Web</h3>
                         </div>
                         <div class="pricing-item-price-prime">
-                            <h3><sub>Desde</sub> 20,000 MXN</sub></h3>
+                            <p class="pricing-item-price-label"><sub>Desde</sub> 20,000 MXN</p>
                         </div>
                         <div class="pricing-item-list-prime">
-                            <h3>¿Qué incluye?</h3>
+                            <p class="pricing-item-list-title">¿Qué incluye?</p>
                             <ul>
                                 <li>Dominio ".com" o ".com.mx"</li>
                                 <li>Hosting Incluido</li>
@@ -557,7 +558,7 @@
                             <div class="faq-accordion our-faq-accordion" id="accordion">
                                 <!-- FAQ1 Inicio -->
                                 <div class="accordion-item wow fadeInUp">
-                                    <h2 class="accordion-header" id="heading1">
+                                    <p class="accordion-header" id="heading1">
                                         <button 
                                             class="accordion-button" 
                                             type="button" 
@@ -568,7 +569,7 @@
                                         >
                                             ¿El precio incluye dominio y hosting?
                                         </button>
-                                    </h2>
+                                    </p>
                                     <div 
                                         id="collapse1" 
                                         class="accordion-collapse collapse show" 
@@ -588,7 +589,7 @@
 
                                 <!-- FAQ2 Inicio -->
                                 <div class="accordion-item wow fadeInUp" data-wow-delay="0.2s">
-                                    <h2 class="accordion-header" id="heading2">
+                                    <p class="accordion-header" id="heading2">
                                         <button 
                                             class="accordion-button collapsed" 
                                             type="button" 
@@ -599,7 +600,7 @@
                                         >
                                             ¿Cuánto tarda mi página web?
                                         </button>
-                                    </h2>
+                                    </p>
                                     <div 
                                         id="collapse2" 
                                         class="accordion-collapse collapse" 
@@ -620,7 +621,7 @@
 
                                 <!-- FAQ3 Inicio -->
                                 <div class="accordion-item wow fadeInUp" data-wow-delay="0.4s">
-                                    <h2 class="accordion-header" id="heading3">
+                                    <p class="accordion-header" id="heading3">
                                         <button 
                                             class="accordion-button collapsed" 
                                             type="button" 
@@ -631,7 +632,7 @@
                                         >
                                             ¿Incluyen correos empresariales?
                                         </button>
-                                    </h2>
+                                    </p>
                                     <div 
                                         id="collapse3" 
                                         class="accordion-collapse collapse" 
@@ -651,7 +652,7 @@
 
                                 <!-- FAQ4 Inicio -->
                                 <div class="accordion-item wow fadeInUp" data-wow-delay="0.6s">
-                                    <h2 class="accordion-header" id="heading4">
+                                    <p class="accordion-header" id="heading4">
                                         <button 
                                             class="accordion-button collapsed" 
                                             type="button" 
@@ -662,7 +663,7 @@
                                         >
                                             ¿Puedo pedir cambios después de publicada la página?
                                         </button>
-                                    </h2>
+                                    </p>
                                     <div 
                                         id="collapse4" 
                                         class="accordion-collapse collapse" 
@@ -683,7 +684,7 @@
 
                                 <!-- FAQ5 Inicio -->
                                 <div class="accordion-item wow fadeInUp" data-wow-delay="0.8s">
-                                    <h2 class="accordion-header" id="heading5">
+                                    <p class="accordion-header" id="heading5">
                                         <button 
                                             class="accordion-button collapsed" 
                                             type="button" 
@@ -694,7 +695,7 @@
                                         >
                                             ¿Qué pasa si no renuevo el siguiente año?
                                         </button>
-                                    </h2>
+                                    </p>
                                     <div 
                                         id="collapse5" 
                                         class="accordion-collapse collapse" 
@@ -732,9 +733,9 @@
                     </div>
                     <div class="core-features-content-royal">
                         <div class="section-title">
-                            <h2 class="text-anime-style-3">
+                            <p class="text-anime-style-3 cta">
                                 ¿Listo para llevar tu negocio a internet?
-                            </h2>
+                            </p>
                             <p class="wow fadeInUp" data-wow-delay="0.2s">
                                 Creamos tu página web profesional con dominio, hosting, 
                                 correo empresarial y soporte incluido.
@@ -785,11 +786,11 @@
                                         <img src="assets/img/icon-headphone-white.svg" alt="icono contacto telefono">
                                     </div>
                                     <div class="contact-info-item-content">
-                                        <h3>
-                                            <a href="<?php echo $phone_link; ?>">
+                                        <p class="contact-info-item-action">
+                                            <a href="callto:<?php echo $phone_link; ?>">
                                                 <?php echo $phone; ?>
                                             </a>
-                                        </h3>
+                                        </p>
                                     </div>
                                 </div>
                                 <div class="contact-info-item wow fadeInUp" data-wow-delay="0.4s">
@@ -797,11 +798,11 @@
                                         <img src="assets/img/icon-mail-white.svg" alt="icono contacto email">
                                     </div>
                                     <div class="contact-info-item-content">
-                                        <h3>
+                                        <p class="contact-info-item-action">
                                             <a href="mailto:<?php echo $email; ?>">
                                                 <?php echo $email; ?>
                                             </a>
-                                        </h3>
+                                        </p>
                                     </div>
                                 </div>
                                 <div class="contact-info-item wow fadeInUp" data-wow-delay="0.6s">
@@ -809,9 +810,9 @@
                                         <img src="assets/img/icon-location-white.svg" alt="icono contacto location">
                                     </div>
                                     <div class="contact-info-item-content">
-                                        <h3>
+                                        <p class="contact-info-item-action">
                                             Ciudad Juárez, Chihuahua
-                                        </h3>
+                                        </p>
                                     </div>
                                 </div>
                             </div>
