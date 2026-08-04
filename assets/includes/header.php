@@ -49,6 +49,7 @@
 
     <!-- Favicon -->
     <link rel="icon" href="assets/img/favicon.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="assets/img/apple-touch-icon.png">
    
     <!-- Google Fonts Css-->
 	<link rel="preconnect" href="https://fonts.googleapis.com">
