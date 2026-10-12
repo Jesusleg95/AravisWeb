@@ -417,7 +417,7 @@
         <div class="container">
             <div class="row section-row">
                 <div class="section-title section-title-center">
-                    <span class="section-sub-title wow fadeInUp">Precios</span>
+                    <span class="section-sub-title wow fadeInUp">Desarrollo Web</span>
                     <h2 class="text-anime-style-3">
                         Planes asequibles adaptados a las necesidades de su negocio
                     </h2>
@@ -443,7 +443,7 @@
                                 <li>Dominio ".com" o ".com.mx"</li>
                                 <li>Hosting Incluido</li>
                                 <li>Certificado SSL</li>
-                                <li>Una Cuenta de Correo Corporativo</li>
+                                <li>Una Cuenta de Correo Empresarial</li>
                                 <li>Botón de Whatsapp</li>
                                 <li>Integración con Google Maps, si aplica</li>
                                 <li>SEO Básico</li>
@@ -483,7 +483,7 @@
                                 <li>Dominio ".com" o ".com.mx"</li>
                                 <li>Hosting Incluido</li>
                                 <li>Certificado SSL</li>
-                                <li>3 Cuentas de Correo Corporativo</li>
+                                <li>3 Cuentas de Correo Empresarial</li>
                                 <li>Botón de Whatsapp</li>
                                 <li>Integración con Google Maps, si aplica</li>
                                 <li>SEO Básico</li>
@@ -574,7 +574,7 @@
                                 <span class="pricing-item-title">
                                     Básico
                                 </span>
-                                <h3>$1,200<sub>MXN</sub></h3>
+                                <h3>$1,200 MXN</h3>
                             </div>
                         </div>
                         <div class="pricing-item-body">
@@ -607,7 +607,7 @@
                                 <span class="pricing-item-title">
                                     Emprendedor
                                 </span>
-                                <h3>$1,800<sub>MXN</sub></h3>
+                                <h3>$1,800 MXN</h3>
                                 <p>Recomendado</p>
                             </div>
                         </div>
@@ -641,7 +641,7 @@
                                 <span class="pricing-item-title">
                                     Negocio
                                 </span>
-                                <h3>$2,500<sub>MXN</sub></h3>
+                                <h3>$2,500 MXN</h3>
                             </div>
                         </div>
                         <div class="pricing-item-body">
@@ -665,7 +665,7 @@
                         <ul>
                             <li>
                                 <img src="assets/img/icon-star.svg" alt="Icono estrella">
-                                Dominio .com.mx disponible con costo adicional.
+                                Dominio ".com.mx" disponible con costo adicional.
                             </li>
                             <li>
                                 <img src="assets/img/icon-star.svg" alt="Icono estrella">
