@@ -30,9 +30,10 @@
             <div class="col-xl-4">
                 <div class="about-footer">
                     <div class="about-footer-content">
-                        <p>
-                            En AravisWeb ayudamos a negocios y empresas a construir una presencia digital 
-                            profesional mediante sitios web modernos, rápidos y funcionales.
+                        <p class="justify">
+                            En AravisWeb creamos páginas web profesionales para negocios en 
+                            México que buscan mejorar su presencia digital, generar confianza 
+                            y facilitar el contacto con sus clientes.
                         </p>
                     </div>
                     <div class="footer-contact-links">
@@ -78,7 +79,7 @@
                         <p class="footer-links-list">Horario</p>
                         <ul>
                             <li>Lunes - Viernes: 9:00 AM - 06:00 PM</li>
-                            <li>Sabado: 9:00 AM - 02:00 PM</li>
+                            <li>Sabado: 10:00 AM - 02:00 PM</li>
                         </ul>
                     </div>
                 </div>
@@ -86,7 +87,10 @@
                     
             <div class="col-lg-12">
                 <div class="footer-copyright-text">
-                    <p>Copyright © 2026 AravisWeb, Todos los derechos reservados.</p>
+                    <p>
+                        Copyright © <?php echo date('Y'); ?> AravisWeb, 
+                        Todos los derechos reservados.
+                    </p>
                 </div>
             </div>
         </div>

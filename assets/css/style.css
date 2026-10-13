@@ -3255,3 +3255,6 @@ Copyright (c) 2014 Daniel Eden
 
 
 /* custom */
+.justify {
+  text-align: justify;
+}
