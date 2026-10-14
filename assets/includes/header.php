@@ -47,6 +47,16 @@
     <!-- Search Console -->
     <meta name="google-site-verification" content="-rLQYCRALhEm0Fnqr0ryh9F-QBu9zMc8VzoZcm6gVDA" />
 
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-3RLV3Q1XR6"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-3RLV3Q1XR6');
+    </script>
+
     <!-- Favicon -->
     <link rel="icon" href="assets/img/favicon.png">
     <link rel="apple-touch-icon" sizes="180x180" href="assets/img/apple-touch-icon.png">
@@ -70,7 +80,6 @@
 	</div>
 	<!-- Preloader End -->
 
-    <!-- Header Inicio -->
 	<header class="main-header">
 		<div class="header-sticky">
 			<nav class="navbar navbar-expand-lg">
@@ -118,6 +127,5 @@
 			<div class="responsive-menu"></div>
 		</div>
 	</header>
-	<!-- Header Fin -->
 
     

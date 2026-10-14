@@ -49,7 +49,7 @@
                           
                             <div class="tools-item-royal">
                                 <div class="icon-box">
-                                    <img src="assets/img/online-stripe.webp" alt="">
+                                    <img src="assets/img/online-stripe.webp" alt="icono tienda online stripe">
                                 </div>
                                 <div class="tools-item-content-royal">
                                     <h3>Stripe</h3>
@@ -60,7 +60,7 @@
                            
                             <div class="tools-item-royal">
                                 <div class="icon-box">
-                                    <img src="assets/img/online-paypal.webp" alt="">
+                                    <img src="assets/img/online-paypal.webp" alt="icono tienda online paypal">
                                 </div>
                                 <div class="tools-item-content-royal">
                                     <h3>PayPal</h3>
@@ -73,7 +73,7 @@
                             
                             <div class="tools-item-royal">
                                 <div class="icon-box">
-                                    <img src="assets/img/online-oxxopay.webp" alt="">
+                                    <img src="assets/img/online-oxxopay.webp" alt="icono tienda online oxxopay">
                                 </div>
                                 <div class="tools-item-content-royal">
                                     <h3>OXXO Pay</h3>
@@ -82,7 +82,7 @@
                            
                             <div class="tools-item-royal">
                                 <div class="icon-box">
-                                    <img src="assets/img/online-mp.webp" alt="">
+                                    <img src="assets/img/online-mp.webp" alt="icono tienda online mp">
                                 </div>
                                 <div class="tools-item-content-royal">
                                     <h3>Mercadoo Pago</h3>
@@ -91,7 +91,7 @@
                            
                             <div class="tools-item-royal">
                                 <div class="icon-box">
-                                    <img src="assets/img/online-skydropx.webp" alt="">
+                                    <img src="assets/img/online-skydropx.webp" alt="icono tienda online skydropx">
                                 </div>
                                 <div class="tools-item-content-royal">
                                     <h3>Skydropx</h3>
@@ -104,7 +104,7 @@
                            
                             <div class="tools-item-royal">
                                 <div class="icon-box">
-                                    <img src="assets/img/online-whatsapp.webp" alt="">
+                                    <img src="assets/img/online-whatsapp.webp" alt="icono tienda online whatsapp">
                                 </div>
                                 <div class="tools-item-content-royal">
                                     <h3>Whatsapp</h3>
@@ -116,7 +116,7 @@
                          
                             <div class="tools-item-royal">
                                 <div class="icon-box">
-                                    <img src="assets/img/online-ecommerce.webp" alt="">
+                                    <img src="assets/img/online-ecommerce.webp" alt="icono tienda online ecommerce">
                                 </div>
                                 <div class="tools-item-content-royal">
                                     <h3>E-Commerce</h3>

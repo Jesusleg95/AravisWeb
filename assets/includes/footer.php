@@ -1,4 +1,3 @@
-<!-- Footer Inicio -->
 <footer class="main-footer bg-section dark-section">
     <div class="container">
         <div class="row">
@@ -32,7 +31,7 @@
                     <div class="about-footer-content">
                         <p class="justify">
                             En AravisWeb creamos páginas web profesionales para negocios en 
-                            México que buscan mejorar su presencia digital, generar confianza 
+                            México, que buscan mejorar su presencia digital, generar confianza 
                             y facilitar el contacto con sus clientes.
                         </p>
                     </div>
@@ -96,21 +95,21 @@
         </div>
     </div>
 </footer>
-<!-- Footer Fin -->
 
-    <!-- Jquery Library File -->
-    <script src="assets/js/jquery-3.7.1.min.js"></script>
-    <!-- Bootstrap js file -->
-    <script src="assets/js/bootstrap.min.js"></script>
-    <!-- Validator js file -->
-    <script src="assets/js/validator.min.js"></script>
-    <!-- SlickNav js file -->
-    <script src="assets/js/jquery.slicknav.js"></script>
-    <!-- Magnific js file -->
-    <script src="assets/js/jquery.magnific-popup.min.js"></script>
-    <!-- Wow js file -->
-    <script src="assets/js/wow.min.js"></script>
-    <!-- Main Custom js file -->
-    <script src="assets/js/function.js"></script>
+<!-- Jquery Library File -->
+<script src="assets/js/jquery-3.7.1.min.js"></script>
+<!-- Bootstrap js file -->
+<script src="assets/js/bootstrap.min.js"></script>
+<!-- Validator js file -->
+<script src="assets/js/validator.min.js"></script>
+<!-- SlickNav js file -->
+<script src="assets/js/jquery.slicknav.js"></script>
+<!-- Magnific js file -->
+<script src="assets/js/jquery.magnific-popup.min.js"></script>
+<!-- Wow js file -->
+<script src="assets/js/wow.min.js"></script>
+<!-- Main Custom js file -->
+<script src="assets/js/function.js"></script>
+
 </body>
 </html>

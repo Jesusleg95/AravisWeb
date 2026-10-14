@@ -11,6 +11,7 @@
     include 'assets/includes/view/tienda.php';
     include 'assets/includes/view/faqs.php';
     include 'assets/includes/view/cta.php';
+    include 'assets/includes/view/contacto.php';
     
     include 'assets/includes/footer.php';
 ?>
