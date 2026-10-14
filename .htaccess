@@ -15,7 +15,7 @@ RewriteCond %{HTTP_HOST} ^www\.aravisweb\.com$ [NC]
 RewriteRule ^(.*)$ https://aravisweb.com/$1 [R=301,L]
 
 # 4. Página 404 personalizada
-# ErrorDocument 404 /404.php
+ErrorDocument 404 /404.php
 
 # 5. Caché para archivos estáticos
 <IfModule mod_expires.c>
