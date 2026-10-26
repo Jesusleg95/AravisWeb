@@ -32,8 +32,3 @@ ErrorDocument 404 /404.php
     ExpiresByType application/javascript "access plus 1 month"
     ExpiresByType text/javascript "access plus 1 month"
 </IfModule>
-
-# RewriteEngine on
-# RewriteCond %{HTTP_HOST} ^aravisweb\.com\.mx$ [OR]
-# RewriteCond %{HTTP_HOST} ^www\.aravisweb\.com\.mx$
-# RewriteRule ^(.*)$ "https\:\/\/aravisweb\.com\/$1" [R=301,L]
