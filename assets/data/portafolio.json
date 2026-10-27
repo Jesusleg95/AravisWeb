@@ -1,0 +1,22 @@
+{
+    "portafolio": [
+        {
+            "id": 1,
+            "nombre": "Operadores TMEC",
+            "descripcion": "Empresa dedicada al reclutamiento y desarrollo de operadores de transporte internacional.",
+            "url": "https://operadorestmec.com"
+        },
+        {
+            "id": 2,
+            "nombre": "L&A Reciclados",
+            "descripcion": "Soluciones de reciclaje industrial y manejo responsable de residuos para empresas.",
+            "url": "https://aravisweb.com/portafolio/lyareciclados/"
+        },
+        {
+            "id": 3,
+            "nombre": "Soluciones GSC",
+            "descripcion": "especialistas en brindar soluciones tecnológicas, pensadas para impulsar el crecimiento y la eficiencia de tu negocio.",
+            "url": "https://solucionesgsc.com"
+        }
+    ]
+}

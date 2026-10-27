@@ -4,7 +4,10 @@
             <div class="col-lg-12">
                 <div class="footer-header">
                     <div class="footer-logo">
-                        <img src="assets/img/logo-footer.png" alt="logo footer AravisWeb">
+                        <img 
+                            src="assets/img/logo-footer.png" 
+                            alt="logo footer AravisWeb"
+                        />
                     </div>
                     <div class="footer-social-links">
                         <p class="footer-social-follow">Síguenos en redes sociales:</p>
@@ -39,13 +42,19 @@
                         <ul>
                             <li>
                                 <a href="mailto:<?php echo $email; ?>">
-                                    <img src="assets/img/icon-mail-white.svg" alt="icono footer email">
+                                    <img 
+                                        src="assets/img/icon-mail-white.svg" 
+                                        alt="icono footer email"
+                                    />
                                     <?php echo $email; ?>
                                 </a>
                             </li>
                             <li>
                                 <a href="callto:<?php echo $phone_link; ?>">
-                                    <img src="assets/img/icon-phone-white.svg" alt="icono footer telefono">
+                                    <img 
+                                        src="assets/img/icon-phone-white.svg" 
+                                        alt="icono footer telefono"
+                                    />
                                     <?php echo $phone; ?>
                                 </a>
                             </li>
@@ -60,18 +69,19 @@
                         <p class="footer-links-list">Navegación</p>
                         <ul>
                             <li><a href="./">Inicio</a></li>
-                            <li><a href="#nosotros">Nosotros</a></li>
-                            <li><a href="#servicios">Servicios</a></li>
-                            <li><a href="#faqs">Faq</a></li>
+                            <li><a href="./#nosotros">Nosotros</a></li>
+                            <li><a href="./#servicios">Servicios</a></li>
+                            <li><a href="./#faqs">Faq</a></li>
+                            <li><a href="portafolio.php">Portafolio</a></li>
                         </ul>
                     </div>
                     <div class="footer-links">
                         <p class="footer-links-list">Nuestros Servicios</p>
                         <ul>
-                            <li><a href="#planes">Landing Page</a></li>
-                            <li><a href="#planes">Sitio Web Empresarial</a></li>
-                            <li><a href="#planes">Aplicación Web</a></li>
-                            <li><a href="#planes">Correo Empresarial</a></li>
+                            <li><a href="./#planes">Landing Page</a></li>
+                            <li><a href="./#planes">Sitio Web Empresarial</a></li>
+                            <li><a href="./#planes">Aplicación Web</a></li>
+                            <li><a href="./#planes">Correo Empresarial</a></li>
                         </ul>
                     </div>
                     <div class="footer-links footer-working-hours-box">

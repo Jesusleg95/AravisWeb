@@ -1,4 +1,6 @@
 User-agent: *
 Allow: /
 
+Disallow: /portafolio/
+
 Sitemap: https://aravisweb.com/sitemap.xml
